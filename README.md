@@ -42,6 +42,16 @@ Website được xây dựng nhằm hỗ trợ **quản lý bán hàng trực tu
 - Xem và xuất báo cáo thống kê  
 
 ---
+▶️ Hướng dẫn cài đặt & chạy
+
+Clone repository
+
+git clone https://github.com/PhamThiDiemMy/asp.net-DK24TTC1-PhamThiDiemMy-BanLinhKienDienTu.git
+Mở project trong Visual Studio
+Khôi phục các package cần thiết (NuGet Restore)
+Cấu hình lại chuỗi kết nối trong Web.config (SQL Server)
+Chạy project bằng IIS Express hoặc cấu hình IIS
+
 
 ## 🗂️ Cấu trúc thư mục
 ```plaintext
